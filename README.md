@@ -8,4 +8,4 @@ The original image is:
 
 # How To Use
 
-`docker pull ghcr.io/pagopa/cosmosdb-emulator:sha-1f7028c`
+`docker pull ghcr.io/pagopa/cosmosdb-emulator:latest`
